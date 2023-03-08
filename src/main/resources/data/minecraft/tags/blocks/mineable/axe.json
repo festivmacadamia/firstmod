@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+		"first_mod:ebony_log",
+		"first_mod:ebony_wood",
+		"first_mod:stripped_ebony_log",
+		"first_mod:stripped_ebony_wood",
+		"first_mod:ebony_planks"
+  ]
+}

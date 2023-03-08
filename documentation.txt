@@ -1,0 +1,43 @@
+2/28/2023
+		4:30
+	        I started by installing Java, JSON, and Gradle extensions to help me program with VSCode.
+	        I followed a tutorial found here: https://www.youtube.com/watch?v=xRXWa5HRAxU&list=PLlbkaeFHn13Hw_Y-Rs2TgBYlpS2RQ5uEA&index=1&t=25s
+	        I'm so clueless lol
+	        I updated the build.gradle file filling in my information
+	        I can't get the Creativemodetab to work cuz im in the wrong version i think
+	        
+	    9:00
+	    	I tried to figure it out and can't
+	    	I forgot that 1.19.3 and 1.19 r rly different regarding creative tabs because mojang just redid them this update
+	        
+ 
+ 3/1/23
+ 	3:00
+ 		I am watching a new tutorial and copied new code, essentially restarting: https://www.youtube.com/watch?v=p-mp91zrlqo
+ 		I successfully created the black opal and raw black opal items along with giving them their own creative tab
+ 		I created black opal blocks and dimensional ore blocks: im so tired
+ 		
+ 	9:00
+ 		I gave these blocks loot tables and made them mineable
+ 		Uploaded my files to github
+ 		I made crafting and smelting
+ 			I couldn't get crafting the black opal back into blocks to work, ill try tmrw
+ 			
+ 			
+3/2/23
+	7:00
+		I fixed the problem with not being able to craft black opal blocks, i just deleted the file then re made it with a different name the matches the minecraft naming scheme more closely
+		I started working on data generations to hasten the process of implementing new blocks and items
+ 		
+ 	11:30
+ 		I worked on adding a new tree type to the game
+ 		I added all of the blocks for the tree to the game
+ 		
+ 3/3/23
+ 	8:00
+		I fixed an issue where the sapling would show a sapling block in the hand rather than the 2d item, i solved by manually changing the json file to math with the black opal file
+		I cant get my sapling grower to work and i have no clue
+		
+3/7/23
+	3:30
+		I fixed my blocks to have the correct hardness, blast resistance, and tool type

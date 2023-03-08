@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "first_mod:black_opal_ore",
+    "first_mod:black_opal_block",
+    "first_mod:deepslate_black_opal_ore",
+    "first_mod:nether_black_opal_ore",
+    "first_mod:end_black_opal_ore"
+  ]
+}

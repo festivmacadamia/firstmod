@@ -1,0 +1,32 @@
+modLoader="javafml" #mandatory
+loaderVersion="[44,)" 
+license="MIT License"
+
+[[mods]]
+modId="first_mod" #mandatory
+version="${file.jarVersion}" #mandatory
+
+displayName="First Mod" #mandatory
+logoFile="examplemod.png" #optional
+credits="to that stinker" #optional
+authors="festiv" #optional
+
+
+
+description='''
+	There's a whole town inside?!?!!?
+'''
+
+[[dependencies.first_mod]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[44,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.first_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.3,1.20)"
+    ordering="NONE"
+    side="BOTH"
